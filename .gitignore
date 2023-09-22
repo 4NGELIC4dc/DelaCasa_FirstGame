@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore generated Unity files and directories
+.gitattributes
+DelaCasa_1stGame/Library/
+DelaCasa_1stGame/Logs/
+DelaCasa_1stGame/Packages/
+DelaCasa_1stGame/ProjectSettings/
+DelaCasa_1stGame/UserSettings/
+DelaCasa_1stGame/obj/
